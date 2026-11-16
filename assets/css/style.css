@@ -10,6 +10,7 @@ div {
     width: 200px;
     border-radius: 10px;
     overflow: hidden;
+    height: 425px;
 }
 
 .backgroundbox {
@@ -27,7 +28,7 @@ div {
 img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
-    height: 130px;
+    height: 170px;
     object-fit: cover;
 }
 
